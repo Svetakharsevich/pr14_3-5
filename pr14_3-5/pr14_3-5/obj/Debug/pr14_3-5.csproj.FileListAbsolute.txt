@@ -1,0 +1,11 @@
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\pr14_3-5\pr14_3-5\bin\Debug\pr14_3-5.exe.config
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\pr14_3-5\pr14_3-5\bin\Debug\pr14_3-5.exe
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\pr14_3-5\pr14_3-5\bin\Debug\pr14_3-5.pdb
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\pr14_3-5\pr14_3-5\obj\Debug\pr14_3-5.csproj.AssemblyReference.cache
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\pr14_3-5\pr14_3-5\obj\Debug\pr14_3-5.csproj.SuggestedBindingRedirects.cache
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\pr14_3-5\pr14_3-5\obj\Debug\pr14_3_5.Form1.resources
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\pr14_3-5\pr14_3-5\obj\Debug\pr14_3_5.Properties.Resources.resources
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\pr14_3-5\pr14_3-5\obj\Debug\pr14_3-5.csproj.GenerateResource.cache
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\pr14_3-5\pr14_3-5\obj\Debug\pr14_3-5.csproj.CoreCompileInputs.cache
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\pr14_3-5\pr14_3-5\obj\Debug\pr14_3-5.exe
+C:\Users\Svetl\OneDrive\Рабочий стол\Алгоритмизация\pr14_3-5\pr14_3-5\obj\Debug\pr14_3-5.pdb
